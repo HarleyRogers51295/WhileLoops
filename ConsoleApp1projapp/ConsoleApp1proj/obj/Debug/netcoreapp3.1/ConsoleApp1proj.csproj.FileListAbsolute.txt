@@ -1,0 +1,13 @@
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\bin\Debug\netcoreapp3.1\ConsoleApp1proj.exe
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\bin\Debug\netcoreapp3.1\ConsoleApp1proj.deps.json
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\bin\Debug\netcoreapp3.1\ConsoleApp1proj.runtimeconfig.json
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\bin\Debug\netcoreapp3.1\ConsoleApp1proj.runtimeconfig.dev.json
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\bin\Debug\netcoreapp3.1\ConsoleApp1proj.dll
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\bin\Debug\netcoreapp3.1\ConsoleApp1proj.pdb
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\obj\Debug\netcoreapp3.1\ConsoleApp1proj.csprojAssemblyReference.cache
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\obj\Debug\netcoreapp3.1\ConsoleApp1proj.AssemblyInfoInputs.cache
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\obj\Debug\netcoreapp3.1\ConsoleApp1proj.AssemblyInfo.cs
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\obj\Debug\netcoreapp3.1\ConsoleApp1proj.csproj.CoreCompileInputs.cache
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\obj\Debug\netcoreapp3.1\ConsoleApp1proj.dll
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\obj\Debug\netcoreapp3.1\ConsoleApp1proj.pdb
+C:\Users\harle\Desktop\TrueCoders\repos\New folder\ConsoleApp1projapp\ConsoleApp1proj\obj\Debug\netcoreapp3.1\ConsoleApp1proj.genruntimeconfig.cache
